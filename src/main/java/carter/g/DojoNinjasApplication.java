@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DojoNinjasApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DojoNinjasApplication.class, args)s;
+		SpringApplication.run(DojoNinjasApplication.class, args);
 	}
 
 }
